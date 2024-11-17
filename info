@@ -1,0 +1,7 @@
+serverless
+follow the instructions
+cd /project
+npm init -y
+npm install --save-dev serverless-offline
+npm install -g serverless
+npm i aws-sdk --save
